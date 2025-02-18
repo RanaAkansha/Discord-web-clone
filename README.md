@@ -1,2 +1,1 @@
-# Beat-Beacon
-My first git project 
+Recreating the Discord homepage using modern web technologies.
